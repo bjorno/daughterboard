@@ -1,5 +1,7 @@
-# daughterboard
-Daughterboard design notes:
+# ÆSIR - Odin Daughterboard
+Odin Daughterboard KiCad Design Files
+
+Design notes:
 
 DB circle dimension: 60 mm, up to 75 mm
 
